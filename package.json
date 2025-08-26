@@ -12,12 +12,11 @@
     "url": "https://github.com/Angelo-Pikaso23/e-commerce_dos/issues"
   },
   "repository": {
-    "type": "git",
+    "type": "commonjs",
     "url": "git+https://github.com/Angelo-Pikaso23/e-commerce_dos.git"
   },
   "license": "ISC",
   "author": "NEXUS",
-  "type": "commonjs",
   "main": "postcss.config.js",
   "scripts": {
     "start": "react-scripts start",
